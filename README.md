@@ -4,8 +4,8 @@ Bienvenido a la documentación de [IOTA](https://iota.org/) en español. Este li
 
 ## [Sumario](SUMMARY.md)
 
-* [Introducción](README.md)
-* [¿Qué es IOTA?](cap1.md)
+* [Inicio](README.md)
+* [Introducción](intro.md)
 * [¿Qué es el Tangle?](tangle.md)
 
 ## Donaciones

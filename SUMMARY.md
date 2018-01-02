@@ -1,5 +1,6 @@
 # Sumario
 
 * [Inicio](README.md)
-* [Introducción](cap1.md)
+* [Introducción](intro.md)
+* [¿Qué es el Tangle?](tangle.md)
 
