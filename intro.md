@@ -14,6 +14,8 @@ Gracias por la comprensión.
 
 Es una suerte de libro mayor \(_ledger_ en inglés\) descentralizado, cuya misión es almacenar en su novedosa estructura de datos \(el [Tangle](tangle.md)\) distintas transacciones inteligentes, tales como la comunicación entre distintos dispositivos IoT y, por supuesto, las transacciones relacionadas con la [criptomoneda](https://es.wikipedia.org/wiki/Criptomoneda) homónima.
 
+De acuerdo a Dominik Schiener —uno de los co-fundadores—, IOTA no es una sigla sino simplemente una letra del alfabeto griego que [representa una unidad pequeña](https://www.youtube.com/watch?v=pDD96FXQkkg&feature=youtu.be&t=3m55s).
+
 ## ¿Es un nuevo blockchain?
 
 No. El _Tangle_ es una nueva tecnología que permite eliminar los principales problemas de blockchain: tamaño, limitación en cuanto a transacciones totales por bloque y necesidad de establecer una tarifa por transacción \(_fee_\).
