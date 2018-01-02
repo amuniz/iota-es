@@ -1,4 +1,4 @@
-# ¿Qué es el *Tangle*?
+# Iota, la criptodivisa
 
 ***
 ## Capítulo en desarrollo

@@ -1,12 +1,22 @@
 # Introducción
 
-![](/assets/working.png) Capítulo en desarrollo
+***
+## Capítulo en desarrollo
+
+Es probable que la información contenida en este capítulo contenga errores, se modifique drásticamente o se mueva hacia otros capítulos o subcapítulos.
+
+También es posible que haya lagunas de contenidos, debido a que es posible que se trabaje en forma coordinada con otros colaboradores.
+
+Gracias por la comprensión.
+***
 
 ## ¿Qué es iota? Una definición sencilla
 
-IOTA es el acrónimo en inglés para *Internet Of Things Application* —que en español significa *Aplicación para la [Internet de las Cosas](https://es.wikipedia.org/wiki/Internet_de_las_cosas)*—. Es una suerte de libro mayor (*ledger* en inglés) descentralizado, cuya misión es almacenar en su novedosa estructura de datos (el [Tangle](tangle.md)) distintas transacciones inteligentes, tales como la comunicación entre distintos dispositivos IoT y, por supuesto, las transacciones relacionadas con la [criptomoneda](https://es.wikipedia.org/wiki/Criptomoneda) homónima.
+IOTA es el acrónimo en inglés para *Internet Of Things Application* —que en español significa *Aplicación de [Internet de las Cosas](https://es.wikipedia.org/wiki/Internet_de_las_cosas)*—. Es una suerte de libro mayor (*ledger* en inglés) descentralizado, cuya misión es almacenar en su novedosa estructura de datos (el [Tangle](tangle.md)) distintas transacciones inteligentes, tales como la comunicación entre distintos dispositivos IoT y, por supuesto, las transacciones relacionadas con la [criptomoneda](https://es.wikipedia.org/wiki/Criptomoneda) homónima.
 
-## ¿Es un nuevo blockchain?
+## ¿Qué es el *Tangle*? ¿Es un nuevo blockchain?
+
+(para una mirada en mayor profundidad, léase el  [capítulo sobre Tangle](tangle.md))
 
 No. El *Tangle* es una nueva tecnología que permite eliminar los principales problemas de blockchain: tamaño, limitación en cuanto a transacciones totales por bloque y necesidad de establecer una tarifa por transacción (*fee*).
 
@@ -23,6 +33,8 @@ IOTA es también una criptomoneda con una base monetaria fija (el total de iotas
 IOTA permite comprar una taza de café, una camiseta o los servicios de un traductor, programador o electricista. También permite acceder, mediante micropagos, a los datos ofrecidos por distintos dispositivos IoT alrededor del mundo, algo sumamente valioso para quienes trabajan creando estadísticas.
 
 ## Me interesa saber más sobre esta criptomoneda
+
+(para una mirada en mayor profundidad, léase el  [capítulo sobre iota, la criptodivisa](criptomoneda.md))
 
 La criptodivisa asociada a este proyecto —que por supuesto comparte el mismo nombre, iota— fue creada en 2015. Desde el momento de la transacción inicial existen exactamente 2 779 530 283 277 761 iotas disponibles. No es posible crear nuevos iotas ni destruir los ya existentes.
 
