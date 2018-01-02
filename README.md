@@ -1,3 +1,4 @@
-# My Awesome Book
+# IOTA - documentación en español
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Bievenido a la documentación de [IOTA](https://iota.org/) en español. Este libro está en proceso de construcción, por lo que es posible encontrar capítulos vacíos, problemas de continuidad o errores. ¡Paciencia!
+
