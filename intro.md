@@ -1,11 +1,6 @@
 # Introducción
 
-***
-
-| ![](/assets/working.png) | Capítulo en desarrollo |
-|--------|----|
-
-***
+![](/assets/working.png) Capítulo en desarrollo
 
 ## ¿Qué es iota? Una definición sencilla
 
