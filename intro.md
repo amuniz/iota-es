@@ -12,7 +12,7 @@ Gracias por la comprensión.
 
 ## ¿Qué es iota? Una definición sencilla
 
-IOTA es el acrónimo en inglés para _Internet Of Things Application_ —que en español significa _Aplicación para la _[_Internet de las Cosas_](https://es.wikipedia.org/wiki/Internet_de_las_cosas)—. Es una suerte de libro mayor \(_ledger_ en inglés\) descentralizado, cuya misión es almacenar en su novedosa estructura de datos \(el [Tangle](tangle.md)\) distintas transacciones inteligentes, tales como la comunicación entre distintos dispositivos IoT y, por supuesto, las transacciones relacionadas con la [criptomoneda](https://es.wikipedia.org/wiki/Criptomoneda) homónima.
+Es una suerte de libro mayor \(_ledger_ en inglés\) descentralizado, cuya misión es almacenar en su novedosa estructura de datos \(el [Tangle](tangle.md)\) distintas transacciones inteligentes, tales como la comunicación entre distintos dispositivos IoT y, por supuesto, las transacciones relacionadas con la [criptomoneda](https://es.wikipedia.org/wiki/Criptomoneda) homónima.
 
 ## ¿Es un nuevo blockchain?
 
