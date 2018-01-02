@@ -1,6 +1,14 @@
 # Introducción
 
-![](/assets/working.png) Capítulo en desarrollo
+***
+## Capítulo en desarrollo
+
+Es probable que la información contenida en este capítulo contenga errores, se modifique drásticamente o se mueva hacia otros capítulos o subcapítulos.
+
+También es posible que haya lagunas de contenidos, debido a que es posible que se trabaje en forma coordinada con otros colaboradores.
+
+Gracias por la comprensión.
+***
 
 ## ¿Qué es iota? Una definición sencilla
 
@@ -10,7 +18,7 @@ IOTA es el acrónimo en inglés para _Internet Of Things Application_ —que en 
 
 No. El _Tangle_ es una nueva tecnología que permite eliminar los principales problemas de blockchain: tamaño, limitación en cuanto a transacciones totales por bloque y necesidad de establecer una tarifa por transacción \(_fee_\).
 
-El _Tangle_ se podría describir por sus siglas en inglés, DAG \(_Directed Acyclic Graph_ o Gráfico Acíclico Dirigido\). Es un sistema que, básicamente, elimina la necesidad de contar con mineros para asegurar la inviolabilidad de las transacciones; en vez de ello, por cada transacción se le pide al usuario que verifique dos transacciones previas. De ese modo, no hay necesidad de establecer una tarifa por transacción, por lo que es perfectamente posible enviar un micropago de tan sólo 1 iota en forma casi instantánea y sin necesidad de pagar un adicional por ello.
+El _Tangle_ se podría describir por sus siglas en inglés, DAG \(_Directed Acyclic Graph_ o Grafo Acíclico Dirigido\). Es un sistema que, básicamente, elimina la necesidad de contar con mineros para asegurar la inviolabilidad de las transacciones; en vez de ello, por cada transacción se le pide al usuario que verifique dos transacciones previas. De ese modo, no hay necesidad de establecer una tarifa por transacción, por lo que es perfectamente posible enviar un micropago de tan sólo 1 iota en forma casi instantánea y sin necesidad de pagar un adicional por ello.
 
 ## ¿Cuál es la utilidad de IOTA?
 
